@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 -->
 
- 🔭 I’m currently working on Robust Research And Development
+ 🔭 I’m currently working on Robust Research And Development.
  🌱 I’m currently learning ReactJs
 
 
